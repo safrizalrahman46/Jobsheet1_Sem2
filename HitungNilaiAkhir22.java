@@ -41,7 +41,7 @@ public class HitungNilaiAkhir22 {
             System.out.println("===================================");
             System.out.println("" + hasil[2]);
             System.out.println("===================================");
-                    }
+        }
     }
 
     public static Object[] hitungNilaiAkhir(int tugas, int kuis, int uts, int uas) {
