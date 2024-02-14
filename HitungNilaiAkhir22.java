@@ -54,6 +54,7 @@ public class HitungNilaiAkhir22 {
         }
 
         // Menghitung nilai akhir
+        //
         double nilaiAkhir = 0.2 * tugas + 0.2 * kuis + 0.3 * uts + 0.4 * uas;
 
         // Mengkonversi nilai ke huruf

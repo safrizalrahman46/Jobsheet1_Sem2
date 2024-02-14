@@ -11,7 +11,7 @@ public class Plat22 {
         {"Bandung"},
         {"Cirebon"},
         {"Bogor"},
-        {"Pekalongan"},
+        {"Pekalongan"}, 
         {"Semarang"},
         {"Surabaya"},
         {"Malang"},
